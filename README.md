@@ -1,2 +1,5 @@
 # Kmeans-and-GMM
-Based on MNIST
+- Assignment of Machine Learning and Data Mining
+- SYSU
+- Based on MNIST
+- Please unzip data.zip before training
